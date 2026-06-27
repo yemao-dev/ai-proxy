@@ -86,3 +86,8 @@ export ANTHROPIC_AUTH_TOKEN="sk-xxx"
 ```
 
 > 🚀 立即体验：https://www.kingflow.ai
+
+
+---
+
+> 📖 **更完整的图文版与更多教程**：https://yemao-dev.github.io/ai-proxy/ ｜ 全部方案合集：https://yemao-dev.github.io/ ｜ 官网：https://www.kingflow.ai
